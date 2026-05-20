@@ -8,7 +8,7 @@ Benjamin Michael
 
 **Within a Github action that runs whenever code is pushed**
 
-Having automated tests being part of a Github action would be best practice. This allows tests to be run whenever a push is made which allows every minute change to the codebased to be checked and verified. It also broadcasts when tests fail so all collaborators are made aware of whats failing and when the failure occured.
+Having automated tests being part of a Github action would be best practice. This allows tests to be run whenever a push is made which allows every change to the codebase to be checked and verified. It also broadcasts when tests fail so all collaborators are made aware of what's failing and when the failure occured.
 
 2) Would you use an end to end test to check if a function is returning the correct output? (yes/no)
 
